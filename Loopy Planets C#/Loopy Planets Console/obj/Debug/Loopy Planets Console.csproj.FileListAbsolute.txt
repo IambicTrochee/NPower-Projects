@@ -1,0 +1,6 @@
+c:\users\sally\documents\visual studio 2015\Projects\Loopy Planets Console\Loopy Planets Console\bin\Debug\Loopy Planets Console.exe.config
+c:\users\sally\documents\visual studio 2015\Projects\Loopy Planets Console\Loopy Planets Console\bin\Debug\Loopy Planets Console.exe
+c:\users\sally\documents\visual studio 2015\Projects\Loopy Planets Console\Loopy Planets Console\bin\Debug\Loopy Planets Console.pdb
+c:\users\sally\documents\visual studio 2015\Projects\Loopy Planets Console\Loopy Planets Console\obj\Debug\Loopy Planets Console.csprojResolveAssemblyReference.cache
+c:\users\sally\documents\visual studio 2015\Projects\Loopy Planets Console\Loopy Planets Console\obj\Debug\Loopy Planets Console.exe
+c:\users\sally\documents\visual studio 2015\Projects\Loopy Planets Console\Loopy Planets Console\obj\Debug\Loopy Planets Console.pdb
