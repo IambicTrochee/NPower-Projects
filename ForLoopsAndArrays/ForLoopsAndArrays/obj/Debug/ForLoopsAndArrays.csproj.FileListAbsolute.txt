@@ -1,0 +1,6 @@
+c:\users\sally\documents\visual studio 2015\Projects\ForLoopsAndArrays\ForLoopsAndArrays\bin\Debug\ForLoopsAndArrays.exe.config
+c:\users\sally\documents\visual studio 2015\Projects\ForLoopsAndArrays\ForLoopsAndArrays\bin\Debug\ForLoopsAndArrays.exe
+c:\users\sally\documents\visual studio 2015\Projects\ForLoopsAndArrays\ForLoopsAndArrays\bin\Debug\ForLoopsAndArrays.pdb
+c:\users\sally\documents\visual studio 2015\Projects\ForLoopsAndArrays\ForLoopsAndArrays\obj\Debug\ForLoopsAndArrays.csprojResolveAssemblyReference.cache
+c:\users\sally\documents\visual studio 2015\Projects\ForLoopsAndArrays\ForLoopsAndArrays\obj\Debug\ForLoopsAndArrays.exe
+c:\users\sally\documents\visual studio 2015\Projects\ForLoopsAndArrays\ForLoopsAndArrays\obj\Debug\ForLoopsAndArrays.pdb

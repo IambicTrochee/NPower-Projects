@@ -1,0 +1,6 @@
+c:\users\sally\documents\visual studio 2015\Projects\TicTacToeChecker\TicTacToeChecker\bin\Debug\TicTacToeChecker.exe.config
+c:\users\sally\documents\visual studio 2015\Projects\TicTacToeChecker\TicTacToeChecker\bin\Debug\TicTacToeChecker.exe
+c:\users\sally\documents\visual studio 2015\Projects\TicTacToeChecker\TicTacToeChecker\bin\Debug\TicTacToeChecker.pdb
+c:\users\sally\documents\visual studio 2015\Projects\TicTacToeChecker\TicTacToeChecker\obj\Debug\TicTacToeChecker.csprojResolveAssemblyReference.cache
+c:\users\sally\documents\visual studio 2015\Projects\TicTacToeChecker\TicTacToeChecker\obj\Debug\TicTacToeChecker.exe
+c:\users\sally\documents\visual studio 2015\Projects\TicTacToeChecker\TicTacToeChecker\obj\Debug\TicTacToeChecker.pdb
